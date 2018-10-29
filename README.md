@@ -54,7 +54,7 @@ API文档聚合：https://drive.kcytech.com/d/f/447172932003700755
 
 媒体播放器：https://drive.kcytech.com/d/f/447162279247486981
 
-6. 熊猫侠 SublimeText
+6.SublimeText-熊猫侠
 
 https://drive.kcytech.com/d/f/447172988110905365
 
