@@ -64,9 +64,7 @@ https://drive.kcytech.com/d/f/444271675360423473
 
 破解程序：https://drive.kcytech.com/d/f/444271677180751411
 
-https://pan.baidu.com/s/1UG3SDmSV4RQPbWQ-85Z6hw
-
-8.Office 2019
+8.Office 2019+破解工具
 
 https://pan.baidu.com/s/1I58_jVqc8abMbT8Gx1JDMA
 
