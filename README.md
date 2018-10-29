@@ -1,5 +1,5 @@
 # Mac-Tools
-@所有人
+
 系统软件：
 1.CMD+tab增强
 最小化软件后，CMD+tab切换软件
