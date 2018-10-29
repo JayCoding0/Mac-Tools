@@ -3,14 +3,17 @@
 # 系统软件：
 1.CMD+tab增强
 最小化软件后，CMD+tab切换软件
+
 https://drive.kcytech.com/d/f/451761378770821133
 
 2.CleanMyMac X 4.0.1
+
 https://drive.kcytech.com/d/f/451651560724766725
 
 3.Alfred 3 Powerpack 3.7 938
-密码：xclient.info
+
 https://drive.kcytech.com/d/f/447165713405190151
+密码：xclient.info
 
 4.iTerm2 3.2.2
 MacOS 终端利器
